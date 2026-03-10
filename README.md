@@ -78,10 +78,10 @@ CARREGANDO
 
 | 🚚 Sprint              | 📆 Previsão   | 📌 Status | 📝 Histórico |
 |---------------------|---------------|-----------|----------------|
-| 🏁 Sprint 1            | 06/04/2026     | 🔃Em andamento | [MVP](https://github.com/LucasSilva59/Projeto-API-2-Semestre/blob/main/MVP/sp1.md)  |
-| 📦 Sprint 2            |   12/05/2026   | 🕑Planejando | [MVP](https://github.com/LucasSilva59/Projeto-API-2-Semestre/blob/main/MVP/sp2.md) |
-| 📈 Sprint 3            | 26/05/2026     | 🕑Planejando | [MVP](https://github.com/LucasSilva59/Projeto-API-2-Semestre/blob/main/MVP/sp3.md)  |
-| 🎪 Feira de Soluções | 11/06/2026       | 🕑Planejando | [MVP]() |
+| 🏁 Sprint 1            | 06/04/2026     | 🔃Em andamento |   |
+| 📦 Sprint 2            |   12/05/2026   | 🕑Planejando |  |
+| 📈 Sprint 3            | 26/05/2026     | 🕑Planejando |  |
+| 🎪 Feira de Soluções | 11/06/2026       | 🕑Planejando |  |
 
 ---
 
