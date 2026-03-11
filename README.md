@@ -31,7 +31,7 @@ Este projeto tem como objetivo desenvolver uma ferramenta de Business Intelligen
 * Analisar os indicadores de sinistralidade no trânsito, com foco em veículos pesados;
 * Desenvolver um dashboard interativo em Power BI com métricas comparativas nacionais e estaduais (como mortalidade e severidade);
 * Elaborar um ranking de eficiência em segurança viária para municípios com mais de 250 mil habitantes;
-* Apoiar a formulação de políticas públicas e estudos acadêmicos através do fornecimento de dados limpos e bem estruturados.
+  
 
 
 ## Tecnologias Utilizadas
