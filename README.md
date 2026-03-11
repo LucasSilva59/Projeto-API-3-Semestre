@@ -11,9 +11,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 
 # Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
+Este projeto tem como objetivo o desenvolvimento de uma solução em Business Intelligence voltada para a análise integrada de segurança viária no Brasil. A proposta inclui a criação de dashboards interativos em Power BI que integrem diferentes bases de dados públicas — como PRF, DATASUS, DENATRAN e IBGE — permitindo realizar análises estatísticas de indicadores de sinistralidade no trânsito, com foco em veículos pesados.
 
 # Equipe
 |  Função        |  Nome               |  GitHub |
