@@ -64,7 +64,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | 14/03/2026 | a fazer  | [MVP]([MVP/sp1.md](https://github.com/LucasSilva59/Projeto-API-3-Semestre/blob/main/MVP/sp1.md)https://github.com/LucasSilva59/Projeto-API-3-Semestre/blob/main/MVP/sp1.md)  |
+| 01                | 14/03/2026 | a fazer  | [MVP]((https://github.com/LucasSilva59/Projeto-API-3-Semestre/blob/main/MVP/sp1.md)https://github.com/LucasSilva59/Projeto-API-3-Semestre/blob/main/MVP/sp1.md)  |
 | 02                | 12/04/2026 | a fazer  | [MVP](MVP/sp2.md)  |
 | 03                | 02/05/2026 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 18/05/2026 | a fazer  | [MVP](#)  |
