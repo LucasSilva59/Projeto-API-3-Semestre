@@ -26,12 +26,12 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Este projeto tem como objetivo desenvolver uma ferramenta de Business Intelligence focada na análise integrada de segurança viária no Brasil, visando:
+* Integrar diferentes bases de dados públicas, incluindo PRF, DATASUS, DENATRAN e IBGE;
+* Analisar os indicadores de sinistralidade no trânsito, com foco em veículos pesados;
+* Desenvolver um dashboard interativo em Power BI com métricas comparativas nacionais e estaduais (como mortalidade e severidade);
+* Elaborar um ranking de eficiência em segurança viária para municípios com mais de 250 mil habitantes;
+* Apoiar a formulação de políticas públicas e estudos acadêmicos através do fornecimento de dados limpos e bem estruturados.
 
 
 ## Tecnologias Utilizadas
