@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrado (API) - Template
+#   NexusLog - Conectando dados e decições inteligentes
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
@@ -52,9 +52,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
+| 1    | Alta       |                                                     |           |       |
+| 2    | Alta       |                                                                     |          |       |
+| 3    | Alta       |                                                |           |       |
 
 
 
