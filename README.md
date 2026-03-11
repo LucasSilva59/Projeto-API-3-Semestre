@@ -52,9 +52,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       |                                                     |           |       |
-| 2    | Alta       |                                                                     |          |       |
-| 3    | Alta       |                                                |           |       |
+| 1    |       |                                                     |           |       |
+| 2    |       |                                                                     |          |       |
+| 3    |        |                                                |           |       |
 
 
 
