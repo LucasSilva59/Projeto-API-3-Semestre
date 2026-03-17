@@ -16,11 +16,11 @@ Este projeto tem como objetivo o desenvolvimento de uma solução em Business In
 # Equipe
 |  Função        |  Nome               |  GitHub |
 |------------------|----------------------|------------------------------------------------------------------|
-|  Product Owner | Derick Fernandes Souta        | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DerickSouta) |
-|  Dev Team     |  Elias Santos Oliveira     | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Oliveira835) |
-|  Dev Team     | Jonathan Wesley Ferreira da Silva      | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JonathanWesleyFS) |
-|  Dev Team     | Loren Santos Uchoas         | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LorenSUchoas) |
-|  Scrum Master | Lucas Silva Daniel          | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasSilva59) |
+|  Product Owner | Derick Fernandes Souta        | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DerickSouta) |  |
+|  Dev Team     |  Elias Santos Oliveira     | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Oliveira835) |  |
+|  Dev Team     | Jonathan Wesley Ferreira da Silva      | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JonathanWesleyFS) |  |
+|  Dev Team     | Loren Santos Uchoas         | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LorenSUchoas) |  |
+|  Scrum Master | Lucas Silva Daniel          | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasSilva59) |  |
 
 
 # Objetivo do Projeto
