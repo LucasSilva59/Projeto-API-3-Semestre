@@ -14,12 +14,12 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 Este projeto tem como objetivo o desenvolvimento de uma solução em Business Intelligence voltada para a análise integrada de segurança viária no Brasil. A proposta inclui a criação de dashboards interativos em Power BI que integrem diferentes bases de dados públicas — como PRF, DATASUS, DENATRAN e IBGE — permitindo realizar análises estatísticas de indicadores de sinistralidade no trânsito, com foco em veículos pesados.
 
 # Equipe
-|  Função        |  Nome               |  GitHub |
+|  Função        |  Nome               | Linkedln & GitHub |
 |------------------|----------------------|------------------------------------------------------------------|
-|  Product Owner | Derick Fernandes Souta        | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DerickSouta) |  |
-|  Dev Team     | Jonathan Wesley Ferreira da Silva      | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JonathanWesleyFS) |  |
-|  Dev Team     | Loren Santos Uchoas         | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LorenSUchoas) |  |
-|  Scrum Master | Lucas Silva Daniel          | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasSilva59) |  |
+|  Product Owner | Derick Fernandes Souta        |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/derick-souta-aa43813b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DerickSouta) |  |
+|  Dev Team     | Jonathan Wesley Ferreira da Silva      |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JonathanWesleyFS) |  |
+|  Dev Team     | Loren Santos Uchoas         |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/loren-uchoas-b6a882263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LorenSUchoas) |  |
+|  Scrum Master | Lucas Silva Daniel          |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-silva-0a5952382/?skipRedirect=true) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasSilva59) |  |
 
 
 # Objetivo do Projeto
