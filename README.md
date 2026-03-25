@@ -49,14 +49,14 @@ Este projeto tem como objetivo desenvolver uma ferramenta de Business Intelligen
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-|1|Alta|Como desenvolvedor de dados, quero que os dados da PRF, RENAEST, SENATRAN e IBGE sejam extraídos e feito um tratamento inicial no Google Colab usando Python, para garantir que o dashboard seja alimentado com informações integradas e confiáveis.|8|1|
-|2|Baixa|Como Cliente, quero visualizar um exemplo visual do modelo do painel do Power BI, para validar se o layout e a disposição das informações atendem às expectativas antes do desenvolvimento completo.|8|1|
-|3|Média|Como gestor de políticas públicas, quero visualizar os indicadores-chave de mortalidade por 100 mil habitantes e sinistros por 10 mil veículos, para comparar a severidade e o desempenho entre os estados e a média nacional.|8|2|
-|4|Alta|Como analista do ONSV, quero visualizar os indicadores macro de segurança viária (mortalidade, severidade, frota, população e motos) consolidados em nível nacional e estadual, para ter um panorama geral e imediato da situação do Brasil.|13|2|
-|5|Média|Como pesquisador de segurança viária, quero aplicar filtros interativos de cruzamento de dados por tipo de veículo (foco em pesados), região, ano (2024 a 2025) e gravidade, para analisar a correlação entre o aumento da frota de veículos pesados e sinistros fatais.|13|2|
-|6|Média|Como gestor do ONSV, quero acessar um ranking de eficiência em segurança viária exclusivo para municípios com mais de 250 mil habitantes (modelado em R), para identificar quais cidades grandes possuem as melhores ou piores práticas.|13|3|
-|7|Alta|Como analista de dados, quero interagir com mapas e gráficos de tendência por estado, para compreender visualmente como os indicadores evoluíram temporalmente nos últimos anos.|20|3|
-|8|Alta|Como Cliente, quero visualizar o comparativo entre estados e média nacional, para identificar rapidamente quais regiões apresentam índices críticos de sinistralidade e quais podem servir de referência em políticas de segurança no trânsito.|20|3|
+|1|Alta|Como desenvolvedor de dados, quero que os dados da PRF, RENAEST, SENATRAN e IBGE sejam extraídos e feito um tratamento inicial no Google Colab usando Python, para garantir que o dashboard seja alimentado com informações integradas e confiáveis.|13|1|
+|2|Baixa|Como Cliente, quero visualizar um exemplo visual do modelo do painel do Power BI, para validar se o layout e a disposição das informações atendem às expectativas antes do desenvolvimento completo.|5|1|
+|3|Média|Como gestor de políticas públicas, quero visualizar os indicadores-chave de mortalidade por 100 mil habitantes e sinistros por 10 mil veículos, para comparar a severidade e o desempenho entre os estados e a média nacional.|100|2|
+|4|Alta|Como analista do ONSV, quero visualizar os indicadores macro de segurança viária (mortalidade, severidade, frota, população e motos) consolidados em nível nacional e estadual, para ter um panorama geral e imediato da situação do Brasil.|100|2|
+|5|Média|Como pesquisador de segurança viária, quero aplicar filtros interativos de cruzamento de dados por tipo de veículo (foco em pesados), região, ano (2024 a 2025) e gravidade, para analisar a correlação entre o aumento da frota de veículos pesados e sinistros fatais.|100|2|
+|6|Média|Como gestor do ONSV, quero acessar um ranking de eficiência em segurança viária exclusivo para municípios com mais de 250 mil habitantes (modelado em R), para identificar quais cidades grandes possuem as melhores ou piores práticas.|100|3|
+|7|Alta|Como analista de dados, quero interagir com mapas e gráficos de tendência por estado, para compreender visualmente como os indicadores evoluíram temporalmente nos últimos anos.|100|3|
+|8|Alta|Como Cliente, quero visualizar o comparativo entre estados e média nacional, para identificar rapidamente quais regiões apresentam índices críticos de sinistralidade e quais podem servir de referência em políticas de segurança no trânsito.|100|3|
 
 
 
