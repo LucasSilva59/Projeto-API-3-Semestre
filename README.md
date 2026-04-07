@@ -42,6 +42,7 @@ Este projeto tem como objetivo desenvolver uma ferramenta de Business Intelligen
 * Pacote Office
 * Whatsapp
 * Discord
+* NotebookLM
 
 
 
