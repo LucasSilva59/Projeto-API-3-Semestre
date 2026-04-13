@@ -1,4 +1,4 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - NexusLog
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
@@ -9,24 +9,21 @@
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+> Nesta etapa, focaremos na extração e tratamento de dados do SENATRAN, PRF e IBGE para criar um dashboard interativo. A ferramenta terá filtros (ano, região e veículo) e exibirá métricas de sinistros, vítimas, frota, população e tendências (2024-2025). A principal limitação é a dificuldade de cruzar as bases de dados devido às suas divergências estruturais. Por fim, o escopo foi reduzido para responder a questão: "Quais estados apresentam a maior taxa de letalidade envolvendo veículos pesados?".
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Persona 1:** A Fatec SJC - Prof. Jessen Vidal é uma instituição de ensino superior focada na aplicação prática do conhecimento para resolver problemas reais do mercado. A sua necessidade central envolve projetos reais em parceria com o mercado para que os alunos possam aplicar a teoria e ganhar experiência relevante. Já as suas dores são atendidas na medida em que o projeto conecta a sala de aula a um desafio real, fornece uma base de dados complexa para análise e motiva os alunos com um trabalho de impacto social.
+- **Persona 2:** O Observatório é um núcleo de inteligência focado em monitorar cenários e fornecer informações estratégicas para empresas, startups e o ecossistema de inovação da região. A sua necessidade central envolve a captação, estruturação e o cruzamento de bases de dados complexas para gerar indicadores confiáveis que apoiem a tomada de decisão do mercado. Já as suas dores são atendidas na medida em que o projeto automatiza o tratamento de dados públicos massivos e dispersos, centraliza essas informações em um dashboard interativo e transforma dados brutos sobre frota e sinistros em análises visuais de alto valor estratégico. 
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Como desenvolvedor de dados, quero que os dados da PRF, RENAEST, SENATRAN e IBGE sejam extraídos e feito um tratamento inicial no Google Colab usando Python, para garantir que o dashboard seja alimentado com informações integradas e confiáveis.         | Alta       | 13   |
+| US2 | Como Cliente, quero visualizar um exemplo visual do modelo do painel do Power BI, para validar se o layout e a disposição das informações atendem às expectativas antes do desenvolvimento completo.         | Baixa    | 5   |
 
 ---
 
