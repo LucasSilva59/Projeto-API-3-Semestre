@@ -37,7 +37,7 @@
 
 ## 📊 Critérios de Aceitação
 - O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
+- O sistema deve registrar [evento importante]  aqui
 - Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
 
 ---
