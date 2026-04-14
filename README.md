@@ -50,7 +50,7 @@ Este projeto tem como objetivo desenvolver uma ferramenta de Business Intelligen
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-|1|Alta|Como Diretor de Operações, quero que os dados da PRF, RENAEST, SENATRAN e IBGE sejam extraídos e feito um tratamento inicial no Google Colab usando Python, para garantir que o dashboard seja alimentado com informações integradas e confiáveis.|13|1|
+|1|Alta|Como Coordenador de Curso , quero que os dados da PRF, RENAEST, SENATRAN e IBGE sejam extraídos e feito um tratamento inicial no Google Colab usando Python, para garantir que o dashboard seja alimentado com informações integradas e confiáveis.|13|1|
 |2|Baixa|Como Diretor de Operações, quero visualizar um exemplo visual do modelo do painel do Power BI, para validar se o layout e a disposição das informações atendem às expectativas antes do desenvolvimento completo.|5|1|
 |3|Alta|Como Diretor de Operações, quero visualizar os indicadores-chave de mortalidade por 100 mil habitantes e sinistros por 10 mil veículos, para comparar a severidade e o desempenho entre os estados e a média nacional.|100|2|
 |4|Alta|Como Diretor de Operações, quero visualizar os indicadores macro de segurança viária (mortalidade, severidade, frota, população e motos) consolidados em nível nacional e estadual, para ter um panorama geral e imediato da situação do Brasil.|100|2|
