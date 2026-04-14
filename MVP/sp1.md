@@ -14,8 +14,7 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** A Fatec SJC - Prof. Jessen Vidal é uma instituição de ensino superior focada na aplicação prática do conhecimento para resolver problemas reais do mercado. A sua necessidade central envolve projetos reais em parceria com o mercado para que os alunos possam aplicar a teoria e ganhar experiência relevante. Já as suas dores são atendidas na medida em que o projeto conecta a sala de aula a um desafio real, fornece uma base de dados complexa para análise e motiva os alunos com um trabalho de impacto social.
-- **Persona 2:** O Observatório é um núcleo de inteligência focado em monitorar cenários e fornecer informações estratégicas para empresas, startups e o ecossistema de inovação da região. A sua necessidade central envolve a captação, estruturação e o cruzamento de bases de dados complexas para gerar indicadores confiáveis que apoiem a tomada de decisão do mercado. Já as suas dores são atendidas na medida em que o projeto automatiza o tratamento de dados públicos massivos e dispersos, centraliza essas informações em um dashboard interativo e transforma dados brutos sobre frota e sinistros em análises visuais de alto valor estratégico. 
+- **Persona 1:** O Observatório é um núcleo de inteligência focado em monitorar cenários e fornecer informações estratégicas para empresas, startups e o ecossistema de inovação da região. A sua necessidade central envolve a captação, estruturação e o cruzamento de bases de dados complexas para gerar indicadores confiáveis que apoiem a tomada de decisão do mercado. Já as suas dores são atendidas na medida em que o projeto automatiza o tratamento de dados públicos massivos e dispersos, centraliza essas informações em um dashboard interativo e transforma dados brutos sobre frota e sinistros em análises visuais de alto valor estratégico. 
 
 ---
 
