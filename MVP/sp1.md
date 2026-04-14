@@ -14,7 +14,8 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** O Observatório é um núcleo de inteligência focado em monitorar cenários e fornecer informações estratégicas para empresas, startups e o ecossistema de inovação da região. A sua necessidade central envolve a captação, estruturação e o cruzamento de bases de dados complexas para gerar indicadores confiáveis que apoiem a tomada de decisão do mercado. Já as suas dores são atendidas na medida em que o projeto automatiza o tratamento de dados públicos massivos e dispersos, centraliza essas informações em um dashboard interativo e transforma dados brutos sobre frota e sinistros em análises visuais de alto valor estratégico. 
+- **Persona 1:** O Observatório é um núcleo de inteligência focado em monitorar cenários e fornecer informações estratégicas para empresas, startups e o ecossistema de inovação da região. A sua necessidade central envolve a captação, estruturação e o cruzamento de bases de dados complexas para gerar indicadores confiáveis que apoiem a tomada de decisão do mercado. Já as suas dores são atendidas na medida em que o projeto automatiza o tratamento de dados públicos massivos e dispersos, centraliza essas informações em um dashboard interativo e transforma dados brutos sobre frota e sinistros em análises visuais de alto valor estratégico.
+- **Persona 2:** O Coordenador de Curso atua como o mentor estratégico focado em monitorar o desenvolvimento técnico e fornecer suporte especializado para a equipe e o ecossistema de inovação da Fatec. A sua necessidade central envolve a análise crítica, a validação e o acompanhamento das bases de dados exploradas no projeto para garantir que os indicadores gerados sejam tecnicamente sólidos e apoiem a tomada de decisão acadêmica e mercadológica.
 
 ---
 
