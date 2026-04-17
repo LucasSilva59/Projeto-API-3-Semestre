@@ -11,7 +11,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 
 # Projeto (API) 
-Este projeto tem como objetivo o desenvolvimento de uma solução em Business Intelligence voltada para a análise integrada de segurança viária no Brasil. A proposta inclui a criação de dashboards interativos em Power BI que integrem diferentes bases de dados públicas — como PRF, DATASUS, DENATRAN e IBGE — permitindo realizar análises estatísticas de indicadores de sinistralidade no trânsito, com foco em veículos pesados.
+Este projeto tem como objetivo o desenvolvimento de uma solução em Business Intelligence voltada para a análise integrada de segurança viária no Brasil. A proposta inclui a criação de dashboards interativos em Power BI que integrem diferentes bases de dados públicas — como PRF, SENATRAN e IBGE — permitindo realizar análises estatísticas de indicadores de sinistralidade no trânsito, com foco em veículos pesados.
 
 # Equipe
 |  Função        |  Nome               | Linkedln & GitHub |
