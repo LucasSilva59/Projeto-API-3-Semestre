@@ -2,10 +2,7 @@
 
 ## 🎯 Objetivo do MVP
 > O objetivo é resolver o problema de falta de intregridade das bases de dados, dessa forma, gerar um Dashboard para melhor visualização e analise. Poderiamos também com esses dados gerar mapas, filtros, indicativos e dentre outros. O valor é apresentar os estados com a maior taxa de letalidade envolvendo veículos pesados.  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
-
+ 
 ---
 
 ## 📝 Descrição da Solução
