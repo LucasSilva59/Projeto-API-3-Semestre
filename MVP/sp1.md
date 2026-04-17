@@ -20,7 +20,7 @@
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 | Como Coordenador de Curso , quero que os dados da PRF, SENATRAN e IBGE sejam extraídos e feito um tratamento inicial no Google Colab usando Python, para garantir que o dashboard seja alimentado com informações integradas e confiáveis.         | Alta       | 13   |
-| US2 | Como Cliente, quero visualizar um exemplo visual do modelo do painel do Power BI, para validar se o layout e a disposição das informações atendem às expectativas antes do desenvolvimento completo.         | Baixa    | 5   |
+| US2 | Como Diretor de Operações, quero monitorar os dados consolidados em um dashboard no Power BI, para analisar de forma eficiente as informações das bases de dados.         | Baixa    | 5   |
 
 ---
 
@@ -28,7 +28,7 @@
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     | quero que os dados da PRF, SENATRAN e IBGE sejam extraídos e feito um tratamento inicial no Google Colab usando Python                       | Concluído|
-| 02     | quero visualizar um exemplo visual do modelo do painel do Power BI                           | Em andamento |
+| 02     | quero monitorar os dados consolidados em um dashboard no Power BI                           | Em andamento |
 
 ---
 
