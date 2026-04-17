@@ -33,17 +33,16 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  aqui
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário aplique filtros (ano, região e veículo) no dashboard para visualizar e identificar facilmente quais estados apresentam a maior taxa de letalidade envolvendo veículos pesados.  
+- O sistema deve registrar o cruzamento e o tratamento correto dos dados extraídos do SENATRAN, PRF e IBGE, garantindo a integridade das informações (A documentação detalhada do tratamento de cada base de dados está disponível em formato PDF na pasta 'Docs', com acesso aos datasets originais e manipulados garantido via link para o Google Drive.).
+- Métricas coletadas: taxa de letalidade, quantidade de sinistros, número de vítimas, tamanho da frota, dados da população e tendências (2024-2025).  
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
-
+- Validação com Stakeholders: Número de apresentações e rodadas de homologação realizadas com o cliente (Observatório) ou orientadores para validar as funcionalidades e a precisão do dashboard.  
+- Avaliação de Usabilidade e Clareza: Coleta de percepções sobre a facilidade de navegação pelos filtros (ano, região, veículo) e a clareza na interpretação dos indicadores de letalidade apresentados.  
+- Aderência aos Objetivos de Negócio: Capacidade técnica do MVP em responder de forma direta à pergunta central dessa sprint (Quais estados apresentam a maior taxa de letalidade envolvendo veículos pesados?) e garantir a precisão total no cruzamento das bases de dados.
 ---
 
 ## 🚀 Próximos Passos
