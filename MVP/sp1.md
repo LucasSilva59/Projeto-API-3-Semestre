@@ -36,7 +36,7 @@
 
 ## 📊 Critérios de Aceitação
 - O MVP deve permitir que o usuário aplique filtros (ano, região e veículo) no dashboard para visualizar e identificar facilmente quais estados apresentam a maior taxa de letalidade envolvendo veículos pesados.  
-- O sistema deve registrar o cruzamento e o tratamento correto dos dados extraídos do SENATRAN, PRF e IBGE, garantindo a integridade das informações (A documentação detalhada do tratamento de cada base de dados está disponível em formato PDF na pasta 'Docs', com acesso aos arquivos originais e filtrados garantido via link para o Google Drive.).
+- O sistema deve registrar o cruzamento e o tratamento correto dos dados extraídos do SENATRAN, PRF e IBGE, garantindo a integridade das informações (A documentação detalhada do tratamento de cada base de dados está disponível em formato PDF na pasta 'Docs', com acesso aos arquivos originais garantido via link para o Google Drive.).
 - Métricas coletadas: taxa de letalidade, quantidade de sinistros, número de vítimas, tamanho da frota, dados da população e tendências (2024-2025).  
 
 ---
