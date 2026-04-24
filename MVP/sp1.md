@@ -53,6 +53,7 @@
 ---
 
 ## 📂 Anexos / Evidências
+![Protótipo do Dashboard de Segurança Viária](https://github.com/LucasSilva59/Projeto-API-3-Semestre/blob/main/Imagens/Prot%C3%B3tipo%20de%20Dashboard.jpeg)
 - Prints de tela  
 - Fluxos ou protótipos  
 - Vídeo (MVP)  
