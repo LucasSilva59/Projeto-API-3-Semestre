@@ -19,16 +19,18 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como Coordenador de Curso , quero que os dados da PRF, SENATRAN e IBGE sejam extraídos e feito um tratamento inicial no Google Colab usando Python, para garantir que o dashboard seja alimentado com informações integradas e confiáveis.         | Alta       | 13   |
-| US2 | Como Diretor de Operações, quero monitorar os dados consolidados em um dashboard no Power BI, para analisar de forma eficiente as informações das bases de dados.         | Baixa    | 5   |
+| US1 | Como Coordenador de Curso , quero que os dados da PRF, SENATRAN e IBGE sejam extraídos e feito um tratamento e filtragem no Google Colab usando Python, para garantir que o dashboard seja alimentado com informações integradas e confiáveis.         | Alta       | 13   |
+| US2 |    Como Diretor de Operações, quero visualizar um dashboard no Power BI, para analisar de forma eficiente as informações das bases de dados.      | Média    | 5   |
+|US3|Como Diretor de Operações, quero um protótipo do dashboard final, para ter uma noção de como o Power BI ficará ao término do projeto. | Baixo | 3|
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | quero que os dados da PRF, SENATRAN e IBGE sejam extraídos e feito um tratamento inicial no Google Colab usando Python                       | Concluído|
-| 02     | quero monitorar os dados consolidados em um dashboard no Power BI                           | Em andamento |
+| 01     | quero que os dados da PRF, SENATRAN e IBGE sejam extraídos e feito um tratamento e filtragem no Google Colab usando Python      | Concluído|
+| 02     | quero visualizar um dashboard no Power BI                           | Em andamento |
+| 03 | quero um protótipo do dashboard final | Concluído |
 
 ---
 
