@@ -57,6 +57,10 @@
 ## 📂 Anexos / Evidências
 ![Protótipo do Dashboard de Segurança Viária](https://github.com/LucasSilva59/Projeto-API-3-Semestre/blob/main/Imagens/Prot%C3%B3tipo%20de%20Dashboard.jpeg)
 ![Dashboard Inícial](https://github.com/LucasSilva59/Projeto-API-3-Semestre/blob/main/Imagens/Dashboard%20In%C3%ADcial.png)
+![Demonstração do Script Python](https://github.com/LucasSilva59/Projeto-API-3-Semestre/blob/main/Imagens/GIFSENATRAN.gif)
+![Demonstração do Script Python](https://github.com/LucasSilva59/Projeto-API-3-Semestre/blob/main/Imagens/GIFSENATRANv2.gif)
+![Demonstração do Script Python](https://github.com/LucasSilva59/Projeto-API-3-Semestre/blob/main/Imagens/GIFPRF.gif)
+![Demonstração do Script Python](https://github.com/LucasSilva59/Projeto-API-3-Semestre/blob/main/Imagens/GIFIBGE.gif)
 - Prints de tela  
 - Fluxos ou protótipos  
 - Vídeo (MVP)  
