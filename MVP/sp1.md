@@ -61,6 +61,3 @@
 ![Demonstração do Script Python](https://github.com/LucasSilva59/Projeto-API-3-Semestre/blob/main/Imagens/GIFSENATRANv2.gif)
 ![Demonstração do Script Python](https://github.com/LucasSilva59/Projeto-API-3-Semestre/blob/main/Imagens/GIFPRF.gif)
 ![Demonstração do Script Python](https://github.com/LucasSilva59/Projeto-API-3-Semestre/blob/main/Imagens/GIFIBGE.gif)
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
