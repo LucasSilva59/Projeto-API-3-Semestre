@@ -6,7 +6,7 @@
 ---
 
 ## 📝 Descrição da Solução
-> Nesta etapa, focaremos na extração e tratamento de dados do SENATRAN, PRF e IBGE para criar um dashboard interativo. A ferramenta terá filtros (ano, região e veículo) e exibirá métricas de sinistros, vítimas, frota, população e tendências (2024-2025). A principal limitação é a dificuldade de cruzar as bases de dados devido às suas divergências estruturais. Por fim, o escopo foi reduzido para responder a questão: "Quais estados apresentam a maior taxa de letalidade envolvendo veículos pesados?".
+> Nesta etapa, focaremos na extração e tratamento de dados do SENATRAN, PRF e IBGE para criar um dashboard interativo. A ferramenta terá filtros e exibirá métricas de vítimas (2024-2025). A principal limitação é a dificuldade de cruzar as bases de dados devido às suas divergências estruturais. Por fim, o escopo foi reduzido para responder a questão: "Quais estados apresentam a maior taxa de letalidade envolvendo veículos pesados?".
 
 ---
 
@@ -35,15 +35,15 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário aplique filtros (ano, região e veículo) no dashboard para visualizar e identificar facilmente quais estados apresentam a maior taxa de letalidade envolvendo veículos pesados.  
+- O MVP deve permitir que o usuário aplique filtros no dashboard para visualizar e identificar facilmente quais estados apresentam a maior taxa de mortalidade (letalidade) envolvendo veículos pesados.  
 - O sistema deve registrar o cruzamento e o tratamento correto dos dados extraídos do SENATRAN, PRF e IBGE, garantindo a integridade das informações (A documentação detalhada do tratamento de cada base de dados está disponível em formato PDF na pasta 'Docs', com acesso aos arquivos originais garantido via link para o Google Drive.).
-- Métricas coletadas: taxa de letalidade, quantidade de sinistros, número de vítimas, tamanho da frota, dados da população e tendências (2024-2025).  
+- Métricas coletadas: taxa de mortalidade, número de vítimas (2024-2025).  
 
 ---
 
 ## 📈 Métricas de Validação
 - Validação com Stakeholders: Número de apresentações e rodadas de homologação realizadas com o cliente (Observatório) ou orientadores para validar as funcionalidades e a precisão do dashboard.  
-- Avaliação de Usabilidade e Clareza: Coleta de percepções sobre a facilidade de navegação pelos filtros (ano, região, veículo) e a clareza na interpretação dos indicadores de letalidade apresentados.  
+- Avaliação de Usabilidade e Clareza: Coleta de percepções sobre a facilidade de navegação pelos filtros e a clareza na interpretação dos indicadores de letalidade apresentados.  
 - Aderência aos Objetivos de Negócio: Capacidade técnica do MVP em responder de forma direta à pergunta central dessa sprint (Quais estados apresentam a maior taxa de letalidade envolvendo veículos pesados?) e garantir a precisão total no cruzamento das bases de dados.
 ---
 
