@@ -29,7 +29,7 @@
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     | quero que os dados da PRF, SENATRAN e IBGE sejam extraídos e feito um tratamento e filtragem no Google Colab usando Python      | Concluído|
-| 02     | quero visualizar um dashboard no Power BI                           | Em andamento |
+| 02     | quero visualizar um dashboard no Power BI                           | Concluído |
 | 03 | quero um protótipo do dashboard final | Concluído |
 
 ---
