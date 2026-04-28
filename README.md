@@ -51,9 +51,9 @@ Este projeto tem como objetivo desenvolver uma ferramenta de Business Intelligen
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
 |1|Alta|Como Coordenador de Curso , quero que os dados da PRF, SENATRAN e IBGE sejam extraídos e feito um tratamento e filtragem no Google Colab usando Python, para garantir que o dashboard seja alimentado com informações integradas e confiáveis.|13|1|
-|2|Média|Como Diretor de Operações do ONSV, quero visualizar um dashboard no Power BI, para analisar de forma eficiente as informações das bases de dados.|5|1|
-|3|Baixa|Como Diretor de Operações do ONSV, quero um protótipo do dashboard final, para ter uma noção de como o Power BI ficará ao término do projeto.|3|1|
-|4|Alta|Como Diretor de Operações do ONSV, quero visualizar os indicadores-chave de mortalidade por 100 mil habitantes, para comparar a severidade e o desempenho entre os estados e a média nacional.|8|1|
+|2|Alta|Como Diretor de Operações do ONSV, quero visualizar os indicadores-chave de mortalidade por 100 mil habitantes, para comparar a severidade e o desempenho entre os estados e a média nacional.|8|1|
+|3|Média|Como Diretor de Operações do ONSV, quero visualizar um dashboard no Power BI, para analisar de forma eficiente as informações das bases de dados.|5|1|
+|4|Baixa|Como Diretor de Operações do ONSV, quero um protótipo do dashboard final, para ter uma noção de como o Power BI ficará ao término do projeto.|3|1|
 |5|Alta|Como Diretor de Operações, quero visualizar os indicadores-chave de sinistros por 10 mil veículos, para comparar a severidade e o desempenho entre os estados e a média nacional.|100|2|
 |6|Alta|Como Diretor de Operações do ONSV, quero visualizar os indicadores macro de segurança viária (mortalidade, severidade, frota, população e motos) consolidados em nível nacional e estadual, para ter um panorama geral e imediato da situação do Brasil.|100|2|
 |7|Alta|Como Diretor de Operações do ONSV, quero aplicar filtros interativos de cruzamento de dados por tipo de veículo (foco em pesados), região, ano (2024 a 2025) e gravidade, para analisar a correlação entre o aumento da frota de veículos pesados e sinistros fatais.|100|2|
