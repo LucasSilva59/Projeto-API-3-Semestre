@@ -20,8 +20,9 @@
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 | Como Coordenador de Curso , quero que os dados da PRF, SENATRAN e IBGE sejam extraídos e feito um tratamento e filtragem no Google Colab usando Python, para garantir que o dashboard seja alimentado com informações integradas e confiáveis.         | Alta       | 13   |
-| US2 |    Como Diretor de Operações do ONSV, quero visualizar um dashboard no Power BI, para analisar de forma eficiente as informações das bases de dados.      | Média    | 5   |
-|US3|Como Diretor de Operações do ONSV, quero um protótipo do dashboard final, para ter uma noção de como o Power BI ficará ao término do projeto. | Baixo | 3|
+|US2| Como Diretor de Operações do ONSV, quero visualizar os indicadores-chave de mortalidade por 100 mil habitantes, para comparar a severidade e o desempenho entre os estados e a média nacional. | Alto | 8
+| US3 |    Como Diretor de Operações do ONSV, quero visualizar um dashboard no Power BI, para analisar de forma eficiente as informações das bases de dados.      | Média    | 5   |
+|US4|Como Diretor de Operações do ONSV, quero um protótipo do dashboard final, para ter uma noção de como o Power BI ficará ao término do projeto. | Baixo | 3|
 
 ---
 
