@@ -30,8 +30,9 @@
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     | quero que os dados da PRF, SENATRAN e IBGE sejam extraídos e feito um tratamento e filtragem no Google Colab usando Python      | Concluído|
-| 02     | quero visualizar um dashboard no Power BI                           | Concluído |
-| 03 | quero um protótipo do dashboard final | Concluído |
+|02 | quero visualizar os indicadores-chave de mortalidade por 100 mil habitantes | Concluído |
+| 03     | quero visualizar um dashboard no Power BI                           | Concluído |
+| 04 | quero um protótipo do dashboard final | Concluído |
 
 ---
 
