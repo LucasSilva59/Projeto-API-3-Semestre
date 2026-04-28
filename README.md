@@ -24,7 +24,7 @@ Este projeto tem como objetivo o desenvolvimento de uma solução em Business In
 
 # Objetivo do Projeto
 Este projeto tem como objetivo desenvolver uma ferramenta de Business Intelligence focada na análise integrada de segurança viária no Brasil, visando:
-* Integrar diferentes bases de dados públicas, incluindo PRF, DATASUS, DENATRAN e IBGE;
+* Integrar diferentes bases de dados públicas, incluindo PRF, SENATRAN e IBGE;
 * Analisar os indicadores de sinistralidade no trânsito, com foco em veículos pesados;
 * Desenvolver um dashboard interativo em Power BI com métricas comparativas nacionais e estaduais (como mortalidade e severidade);
 * Elaborar um ranking de eficiência em segurança viária para municípios com mais de 250 mil habitantes;
