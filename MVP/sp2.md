@@ -20,7 +20,7 @@
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US5 | Como Diretor de Operações do ONSV, quero visualizar os indicadores-chave de sinistros por 10 mil veículos, para comparar a severidade e o desempenho entre os estados e a média nacional.       | Alta       |  8  |
-| US6 | Como Diretor de Operações do ONSV, quero visualizar os indicadores macro de segurança viária (mortalidade, severidade, frota, população e mortos) consolidados em nível nacional e estadual, para ter um panorama geral e imediato da situação do Brasil.     | Alta      | 5  |
+| US6 | Como Diretor de Operações do ONSV, quero visualizar os indicadores macro de segurança viária consolidados em nível nacional/estadual, para ter um panorama geral e imediato da situação do Brasil.     | Alta      | 5  |
 |US7| Como Diretor de Operações do ONSV, quero aplicar filtros interativos de cruzamento de dados por tipo de veículo (foco em pesados), estado e etc, para analisar a correlação entre o aumento da frota de veículos pesados e sinistros fatais. | Alta | 3 |
 |US8| Como Diretor de Operações do ONSV, quero visualizar um mapa de calor do Brasil, para compreender visualmente os estados com maior quantidade de mortos. | Alta | 8 |
 
@@ -30,8 +30,8 @@
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 02     | quero visualizar os indicadores-chave de sinistros por 10 mil veículos                       | Concluído|
-| 02     | quero visualizar os indicadores macro de segurança viária (mortalidade, severidade, frota, população e mortos) consolidados em nível nacional e estadual                        |Concluído  |
-| 02     | quero aplicar filtros interativos de cruzamento de dados por tipo de veículo (foco em pesados), região, ano (2024 a 2025) e gravidade                       |Concluído  |
+| 02     | quero visualizar os indicadores macro de segurança viária consolidados em nível nacional/estadual                        |Concluído  |
+| 02     | quero aplicar filtros interativos de cruzamento de dados por tipo de veículo (foco em pesados), estado e etc                       |Concluído  |
 | 02     | quero visualizar um mapa de calor do Brasil                          |Concluído  |
 | 03     | quero interagir com gráficos de tendência por estado      |Em andamento  |
 
