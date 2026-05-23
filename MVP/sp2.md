@@ -1,24 +1,18 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - NexusLog
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+> O objetivo é aprimorar nosso dashboard, adicionando indicadores, filtros, gráficos e um mapa de calor, o que facilitará a visualização dos dados. Com esses dados filtrados, poderiamos também gerar um gráfico de tendência por estado. O valor é apresentar a taxa de mortes por 100 mil habitantes nos estados brasileiros e evidenciar a variação significativa nos sinistros envolvendo veículos pesados por região do país.
 
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+> Nesta etapa, focaremos no desenvolvimento do Dashboard. A ferramenta terá graficos, filtros e indicadores. A principal limitação foi a falta de algumas configurações do Power Bi para editar funcionalidades dos graficos. Por fim, o escopo foi reduzido para responder as questões: "Há variação significativa nos sinistros envolvendo veículos pesados por região do país?" e "Qual é a taxa de mortes por 100 mil habitantes nos estados brasileiros?". 
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Persona 1:** O Observatório é um núcleo de inteligência focado em monitorar cenários e fornecer informações estratégicas para empresas, startups e o ecossistema de inovação da região. A sua necessidade central envolve a captação, estruturação e o cruzamento de bases de dados complexas para gerar indicadores confiáveis que apoiem a tomada de decisão do mercado. Já as suas dores são atendidas na medida em que o projeto automatiza o tratamento de dados públicos massivos e dispersos, centraliza essas informações em um dashboard interativo e transforma dados brutos sobre frota e sinistros em análises visuais de alto valor estratégico.
+- **Persona 2:** O Coordenador de Curso atua como o mentor estratégico focado em monitorar o desenvolvimento técnico e fornecer suporte especializado para a equipe e o ecossistema de inovação da Fatec. A sua necessidade central envolve a análise crítica, a validação e o acompanhamento das bases de dados exploradas no projeto para garantir que os indicadores gerados sejam tecnicamente sólidos e apoiem a tomada de decisão acadêmica e mercadológica.  
 
 ---
 
