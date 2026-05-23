@@ -50,9 +50,7 @@
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+> Apôs o feedback, iremos aprimorar o Dashboard para a proxima sprint, para que possa utilizar melhor os dados filtrados.
 
 ---
 
