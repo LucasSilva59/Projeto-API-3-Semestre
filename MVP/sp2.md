@@ -19,30 +19,34 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US5 | Como Diretor de Operações do ONSV, quero visualizar os indicadores-chave de sinistros por 10 mil veículos, para comparar a severidade e o desempenho entre os estados e a média nacional.       | Alta       |  8  |
+| US6 | Como Diretor de Operações do ONSV, quero visualizar os indicadores macro de segurança viária (mortalidade, severidade, frota, população e mortos) consolidados em nível nacional e estadual, para ter um panorama geral e imediato da situação do Brasil.     | Alta      | 5  |
+|US7| Como Diretor de Operações do ONSV, quero aplicar filtros interativos de cruzamento de dados por tipo de veículo (foco em pesados), região, ano (2024 a 2025) e gravidade, para analisar a correlação entre o aumento da frota de veículos pesados e sinistros fatais. | Alta | 3 |
+|US8| Como Diretor de Operações do ONSV, quero visualizar um mapa de calor do Brasil, para compreender visualmente os estados com maior quantidade de mortos. | Alta | 8 |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 02     | quero visualizar os indicadores-chave de sinistros por 10 mil veículos                       | Concluído|
+| 02     | quero visualizar os indicadores macro de segurança viária (mortalidade, severidade, frota, população e mortos) consolidados em nível nacional e estadual                        |Concluído  |
+| 02     | quero aplicar filtros interativos de cruzamento de dados por tipo de veículo (foco em pesados), região, ano (2024 a 2025) e gravidade                       |Concluído  |
+| 02     | quero visualizar um mapa de calor do Brasil                          |Concluído  |
+| 03     | quero interagir com gráficos de tendência por estado      |Em andamento  |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
-
+- O MVP deve permitir que o usuário aplique filtros no dashboard para visualizar e identificar facilmente quais estados apresentam a maior taxa de mortalidade e sinistros envolvendo veículos, e também visualizar um mapa de calor.  
+- O sistema deve registrar o cruzamento e o tratamento correto dos dados extraídos do SENATRAN, PRF e IBGE, garantindo a integridade das informações, dessa forma, gerando graficos eficientes.
+- Métricas coletadas: Taxa de Sinistros, Taxa de Mortalidade, Total de População e Total de Frota (2024 e 2025).
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Validação com Stakeholders: Número de apresentações e rodadas de homologação realizadas com o cliente (Observatório) ou orientadores para validar as funcionalidades e a precisão do dashboard.  
+- Avaliação de Usabilidade e Clareza: Coleta de percepções sobre a facilidade de navegação pelos filtros e a clareza na interpretação dos indicadores apresentados.  
+- Aderência aos Objetivos de Negócio: Capacidade técnica do MVP em responder de forma direta as perguntas centrais dessa sprint (Há variação significativa nos sinistros envolvendo veículos pesados por região do país? e Qual é a taxa de mortes por 100 mil habitantes nos estados brasileiros?) e garantir uma visualização ideal do Dashboard. 
 
 ---
 
