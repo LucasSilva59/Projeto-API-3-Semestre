@@ -58,6 +58,4 @@
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+![Dashboard Inícial](https://github.com/LucasSilva59/Projeto-API-3-Semestre/blob/main/Imagens/Dashboard%20v5.png)
