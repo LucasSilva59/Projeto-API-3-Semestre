@@ -21,7 +21,7 @@
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US5 | Como Diretor de Operações do ONSV, quero visualizar os indicadores-chave de sinistros por 10 mil veículos, para comparar a severidade e o desempenho entre os estados e a média nacional.       | Alta       |  8  |
 | US6 | Como Diretor de Operações do ONSV, quero visualizar os indicadores macro de segurança viária (mortalidade, severidade, frota, população e mortos) consolidados em nível nacional e estadual, para ter um panorama geral e imediato da situação do Brasil.     | Alta      | 5  |
-|US7| Como Diretor de Operações do ONSV, quero aplicar filtros interativos de cruzamento de dados por tipo de veículo (foco em pesados), região, ano (2024 a 2025) e gravidade, para analisar a correlação entre o aumento da frota de veículos pesados e sinistros fatais. | Alta | 3 |
+|US7| Como Diretor de Operações do ONSV, quero aplicar filtros interativos de cruzamento de dados por tipo de veículo (foco em pesados), estado e etc, para analisar a correlação entre o aumento da frota de veículos pesados e sinistros fatais. | Alta | 3 |
 |US8| Como Diretor de Operações do ONSV, quero visualizar um mapa de calor do Brasil, para compreender visualmente os estados com maior quantidade de mortos. | Alta | 8 |
 
 ---
