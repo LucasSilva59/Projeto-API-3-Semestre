@@ -33,6 +33,7 @@
 | 02     | quero visualizar os indicadores macro de segurança viária consolidados em nível nacional/estadual                        |Concluído  |
 | 02     | quero aplicar filtros interativos de cruzamento de dados por tipo de veículo (foco em pesados), estado e etc                       |Concluído  |
 | 02     | quero visualizar um mapa de calor do Brasil                          |Concluído  |
+| 03     | quero visualizar um gráfico de tendência por estado                       |Em andamento |
 
 ---
 
