@@ -51,9 +51,7 @@
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+> Após o feedback, iremos fazer um checkout nos dados e desenvolver os próximos passos do backlog (Trajetória de Frotas e Mortes por estados, e o Ranking de Eficiência).  
 
 ---
 
