@@ -58,9 +58,9 @@ Este projeto tem como objetivo desenvolver uma ferramenta de Business Intelligen
 |6|Alta|Como Diretor de Operações do ONSV, quero visualizar os indicadores macro de segurança viária consolidados em nível nacional/estadual, para ter um panorama geral e imediato da situação do Brasil.|5|2|
 |7|Alta|Como Diretor de Operações do ONSV, quero aplicar filtros interativos de cruzamento de dados por tipo de veículo (foco em pesados), estado e etc, para analisar a correlação entre o aumento da frota de veículos pesados e sinistros fatais.|3|2|
 |8|Alta|Como Diretor de Operações do ONSV, quero visualizar um mapa de calor do Brasil, para compreender visualmente os estados com maior quantidade de mortos.|8|2|
-|9|Alta|Como Diretor de Operações do ONSV, quero interagir com gráficos de tendência por estado, para compreender visualmente como os indicadores evoluíram temporalmente nos últimos anos (2024 e 2025).|100|3|
-|10|Alta|Como Diretor de Operações do ONSV, quero visualizar o comparativo entre estados e média nacional, para identificar rapidamente quais regiões apresentam índices críticos de sinistralidade e quais podem servir de referência em políticas de segurança no trânsito.|100|3|
-|11|Média|Como Diretor de Operações do ONSV, quero acessar um ranking de eficiência em segurança viária exclusivo para municípios com mais de 250 mil habitantes (modelado em R), para identificar quais cidades grandes possuem as melhores ou piores práticas.|100|3|
+|9|Alta|Como Diretor de Operações do ONSV, quero interagir com gráficos de tendência por estado, para compreender visualmente como os indicadores evoluíram temporalmente nos últimos anos (2024 e 2025).|13|3|
+|10|Alta|Como Diretor de Operações do ONSV, quero visualizar o comparativo entre estados e média nacional, para identificar rapidamente quais regiões apresentam índices críticos de sinistralidade e quais podem servir de referência em políticas de segurança no trânsito.|8|3|
+|11|Média|Como Diretor de Operações do ONSV, quero acessar um ranking de eficiência em segurança viária exclusivo para municípios com mais de 250 mil habitantes (modelado em R), para identificar quais cidades grandes possuem as melhores ou piores práticas.|13|3|
 
 
 
