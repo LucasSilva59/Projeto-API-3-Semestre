@@ -50,7 +50,7 @@
 ---
 
 ## 🚀 Próximos Passos
-> Apôs o feedback, iremos aprimorar o Dashboard para a proxima sprint, para que possa utilizar melhor os dados filtrados.
+> Após o feedback, iremos aprimorar o Dashboard para a proxima sprint, para que possa utilizar melhor os dados filtrados.
 
 ---
 
