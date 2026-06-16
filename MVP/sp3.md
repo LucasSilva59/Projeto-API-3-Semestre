@@ -1,4 +1,4 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - NexusLog
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
@@ -17,24 +17,26 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- Persona 1: O Observatório é um núcleo de inteligência focado em monitorar cenários e fornecer informações estratégicas para empresas, startups e o ecossistema de inovação da região. A sua necessidade central envolve a captação, estruturação e o cruzamento de bases de dados complexas para gerar indicadores confiáveis que apoiem a tomada de decisão do mercado. Já as suas dores são atendidas na medida em que o projeto automatiza o tratamento de dados públicos massivos e dispersos, centraliza essas informações em um dashboard interativo e transforma dados brutos sobre frota e sinistros em análises visuais de alto valor estratégico.
+- Persona 2: O Coordenador de Curso atua como o mentor estratégico focado em monitorar o desenvolvimento técnico e fornecer suporte especializado para a equipe e o ecossistema de inovação da Fatec. A sua necessidade central envolve a análise crítica, a validação e o acompanhamento das bases de dados exploradas no projeto para garantir que os indicadores gerados sejam tecnicamente sólidos e apoiem a tomada de decisão acadêmica e mercadológica.  
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Como Diretor de Operações do ONSV, quero interagir com gráficos de tendência por estado, para compreender visualmente como os indicadores evoluíram temporalmente nos últimos anos (2024 e 2025).         | Alta       | 13   |
+| US2 | Como Diretor de Operações do ONSV, quero visualizar o comparativo entre estados e média nacional, para identificar rapidamente quais regiões apresentam índices críticos de sinistralidade e quais podem servir de referência em políticas de segurança no trânsito.| Alta     | 8  |
+|US3|Como Diretor de Operações do ONSV, quero acessar um ranking de eficiência em segurança viária exclusivo para municípios com mais de 250 mil habitantes, para identificar quais cidades grandes possuem as melhores ou piores práticas.|Média| 13
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 03     | quero interagir com gráficos de tendência por estado                        | Concluído|
+| 03     | quero visualizar o comparativo entre estados e média nacional                          | Concluído |
+| 03 | quero acessar um ranking de eficiência em segurança viária exclusivo para municípios com mais de 250 mil habitantes | Concluído |
 
 ---
 
