@@ -41,23 +41,22 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário aplique filtros no dashboard para visualizar e identificar facilmente quais estados apresentam a maior taxa de mortalidade, taxa de eficiência e sinistros envolvendo veículos, e também visualizar um mapa de calor e dois graficos de tendencia (Frotas e Mortes).  
+- O sistema deve registrar o cruzamento e o tratamento correto dos dados extraídos do SENATRAN, PRF e IBGE, garantindo a integridade das informações, dessa forma, gerando graficos eficientes.  
+- Métricas coletadas: Taxa de Sinistros, Taxa de Mortalidade, Total de População, Total de Frota e etc.  
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Validação com Stakeholders: Número de apresentações e rodadas de homologação realizadas com o cliente (Observatório) ou orientadores para validar as funcionalidades e a precisão do dashboard.  
+- Avaliação de Usabilidade e Clareza: Coleta de percepções sobre a facilidade de navegação pelos filtros e a clareza na interpretação dos indicadores apresentados.  
+- Aderência aos Objetivos de Negócio: Capacidade técnica do MVP em responder de forma direta as perguntas centrais dessa sprint ( Existe correlação entre crescimento da frota de veículos pesados e aumento de sinistros 
+fatais? e Como os indicadores de segurança viária evoluíram entre 2015 e 2025?) e garantir uma visualização ideal do Dashboard.  
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+> Se preparar para a Feira de Soluções 
 
 ---
 
