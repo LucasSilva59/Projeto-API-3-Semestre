@@ -1,10 +1,7 @@
 # 📌 MVP - NexusLog
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+> O objetivo é aprimorar nosso dashboard, adicionando gráficos de tendência temporal, uma linha de média nacional e um ranking de eficiência, o que facilitará a análise comparativa dos dados. Com esses novos recursos, poderíamos também visualizar o desempenho de segurança viária nas grandes cidades. O valor é apresentar como os indicadores de segurança viária evoluíram entre 2024 e 2025 e evidenciar se existe correlação entre o crescimento da frota de veículos e o aumento de sinistros fatais. 
 
 ---
 
