@@ -50,7 +50,7 @@ fatais? e Como os indicadores de segurança viária evoluíram entre 2024 e 2025
 ---
 
 ## 🚀 Próximos Passos
-> Se preparar para a Feira de Soluções 
+> Preparar-se para a Feira de Soluções 
 
 ---
 
