@@ -6,10 +6,7 @@
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+> Nesta etapa, focaremos no aprimoramento do Dashboard. A ferramenta terá gráficos de tendência temporal por estado, uma linha de média nacional e um ranking de eficiência municipal. A principal limitação foi a necessidade de padronizar rigorosamente a grafia dos dados e ajustar os relacionamentos no Power BI para conseguir cruzar as bases do IBGE e da PRF sem quebrar os filtros visuais. Por fim, o escopo foi reduzido para focar na análise exclusiva de municípios com mais de 250 mil habitantes, visando responder as questões: "Como os indicadores de segurança viária evoluíram entre 2024 e 2025?" e "Existe correlação entre o crescimento da frota de veículos e o aumento de sinistros fatais?".  
 
 ---
 
@@ -58,6 +55,11 @@ fatais? e Como os indicadores de segurança viária evoluíram entre 2024 e 2025
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+
+Clique na imagem abaixo para assistir nosso vídeo no youtube!
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=WDFeQk4tOtg">
+    <img src="https://img.youtube.com/vi/WDFeQk4tOtg/0.jpg" alt="Assista ao vídeo no YouTube">
+  </a>
+</div>
