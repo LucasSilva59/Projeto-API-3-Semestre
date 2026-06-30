@@ -73,4 +73,4 @@ Este projeto tem como objetivo desenvolver uma ferramenta de Business Intelligen
 | 01                | 28/04/2026 | Concluído  | [MVP](https://github.com/LucasSilva59/Projeto-API-3-Semestre/blob/main/MVP/sp1.md)  |
 | 02                | 26/05/2026 | Concluído  | [MVP](https://github.com/LucasSilva59/Projeto-API-3-Semestre/blob/main/MVP/sp2.md)  |
 | 03                | 16/06/2026 | Concluído  | [MVP](https://github.com/LucasSilva59/Projeto-API-3-Semestre/blob/main/MVP/sp3.md)  |
-| Feira de Soluções | 18/06/2026 | Em andamento  | [MVP](#)  |
+| Feira de Soluções | 25/06/2026 | Concluído  | [MVP](#)  |
